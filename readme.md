@@ -1,5 +1,5 @@
 # geographic-center
-[![npm version](https://img.shields.io/npm/v/geographic-center.svg)](https://www.npmjs.com/package/geographic-center) [![Build Status](https://travis-ci.org/juliuste/geographic-center.svg?branch=master)](https://travis-ci.org/juliuste/geographic-center) [![MIT License](https://img.shields.io/badge/license-MIT-black.svg)](https://opensource.org/licenses/MIT)
+[![npm version](https://img.shields.io/npm/v/geographic-center.svg)](https://www.npmjs.com/package/geographic-center) [![dependencies](https://david-dm.org/juliuste/geographic-center.svg)](https://david-dm.org/juliuste/geographic-center) [![Build Status](https://travis-ci.org/juliuste/geographic-center.svg?branch=master)](https://travis-ci.org/juliuste/geographic-center) [![MIT License](https://img.shields.io/badge/license-MIT-black.svg)](https://opensource.org/licenses/MIT)
 
 JavaScript module for calculating the **geographic center** of given (probably somewhat inexact) **GPS/WGS84 coordinates** located in a zone with a **maximal width of 200km**. 
 
